@@ -7,7 +7,6 @@ on:
 
 env:
 	CLWEBAPI_REPOSITORY: clwebapi_repository
-
   AWS_REGION: us-east-2
 
 jobs:
