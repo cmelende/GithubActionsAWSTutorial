@@ -9,5 +9,11 @@ namespace Tests
         {
             Assert.Pass();
         }
+
+        [Test]
+        public void Fail()
+        {
+            Assert.Fail();
+        }
     }
 }
