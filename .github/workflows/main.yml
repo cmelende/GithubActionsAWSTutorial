@@ -2,9 +2,8 @@ name: .NET
 
 on:
   push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
+    branches: 
+        - 'main'
 	
 env: 
 	CLWEBAPI_REPOSITORY: clwebapi_repository
