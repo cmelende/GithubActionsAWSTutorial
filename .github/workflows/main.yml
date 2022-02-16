@@ -4,8 +4,8 @@ on:
   push:
     branches: 
         - 'main'
-	
-env: 
+
+env:
 	CLWEBAPI_REPOSITORY: clwebapi_repository
 
   AWS_REGION: us-east-2
